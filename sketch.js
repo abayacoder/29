@@ -18,7 +18,7 @@ var ball;
 var img;
 
 function preload(){
-  img = loadImage("hexagon (1).png");
+  img = loadImage("polygon.png");
 
 }
 
